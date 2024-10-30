@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Observations>
+    <Lieux>
+        <Lieu id="L1">
+            <nom>Montagnes de l'Altaï (Mongolie)</nom>
+            <gps>49.0000,89.0000</gps>
+        </Lieu>
+        <Lieu id="L2">
+            <nom>Montagne de Nouvelle-Guinée</nom>
+            <gps>-4.0234,137.0686</gps>
+        </Lieu>
+        <Lieu id="L3">
+            <nom>Himalaya</nom>
+            <gps>28.8138,84.0493</gps>
+        </Lieu>
+        <Lieu id="L4">
+            <nom>Amazonie</nom>
+            <gps>3.4653,-62.2159</gps>
+        </Lieu>
+        <Lieu id="L5">
+            <nom>Alpes</nom>
+            <gps>45.0000,6.1171</gps>
+        </Lieu>
+    </Lieux>
+
+    <Especes>
+        <Espece id="E1">
+            <nom>Argalis chinois</nom>
+            <description>Herbivore ruminant, de 65-180kg et de 90-120 cm au garrot</description>
+        </Espece>
+        <Espece id="E2">
+            <nom>Dendrolague</nom>
+            <description>Mammifère arboricole, jusqu'à 14.5kg et de 41 à 77cm de longueur hors queue</description>
+        </Espece>
+        <Espece id="E3">
+            <nom>Panthère des neiges</nom>
+            <description>Grand félin carnivore de 35 à 40kg et de 90-130 cm de long</description>
+        </Espece>
+        <Espece id="E4">
+            <nom>Panthère nébuleuse</nom>
+            <description>Grand félin carnivore de 11 à 20 kg et de 60-110 cm de long</description>
+        </Espece>
+        <Espece id="E5">
+            <nom>Loutre géante</nom>
+            <description>Mammifère carnivore, jusqu'à 30kg et jusqu'à 180 cm de longueur</description>
+        </Espece>
+        <Espece id="E6">
+            <nom>Lynx</nom>
+            <description>Mammifère carnivore, de 18 à 25kg en France et de 55 à 75 cm au garrot</description>
+        </Espece>
+        <Espece id="E7">
+            <nom>Loup</nom>
+            <description>Canidé carnivore, de 20 à 40kg, de 110 à 150cm de longueur et 130 meutes en France dans les Alpes</description>
+        </Espece>
+        <Espece id="E8">
+            <nom>Ours brun d'Europe</nom>
+            <description>Ursidé omnivore, de 100 à 340kg et de 170 à 250cm debout</description>
+        </Espece>
+        <Espece id="E9">
+            <nom>Panda géant</nom>
+            <description>Ursidé omnivore à tendance majoritaire herbivore, de 75 à 160kg, de 120 à 150cm</description>
+        </Espece>
+        <Espece id="E10">
+            <nom>Tigre</nom>
+            <description>Grand félin carnivore de 100 à 300 kg et de 80-100 cm de garrot</description>
+        </Espece>
+    </Especes>
+
+    <ListeObservations>
+        <Observation lieuRef="L1" especeRef="E1" nombre="70000" annee="2023" />
+        <Observation lieuRef="L2" especeRef="E2" nombre="100" annee="2020" />
+        <Observation lieuRef="L3" especeRef="E3" nombre="3200" annee="2023" />
+        <Observation lieuRef="L3" especeRef="E4" nombre="10000" annee="2022" />
+        <Observation lieuRef="L4" especeRef="E5" nombre="2000" annee="2006" />
+        <Observation lieuRef="L5" especeRef="E6" nombre="200" annee="2023" />
+        <Observation lieuRef="L5" especeRef="E7" nombre="921" annee="2021" />
+        <Observation lieuRef="L5" especeRef="E8" nombre="15000" annee="2008" />
+        <Observation lieuRef="L3" especeRef="E9" nombre="1864" annee="2013" />
+        <Observation lieuRef="L3" especeRef="E10" nombre="3890" annee="2016" />
+        <Observation lieuRef="L3" especeRef="E1" nombre="10000" annee="2024" />
+        <Observation lieuRef="L5" especeRef="E7" nombre="1800" annee="2005" />
+    </ListeObservations>
+</Observations>
